@@ -8,10 +8,9 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 
 ## 👤 About Me
 
-* 🏫 I'm currently a second-year **Statistics student** at the **University of Lagos (UNILAG)** maintaining a **3.72 CGPA**.
+* 🏫 I'm currently a second-year **Statistics student** at the **University of Lagos (UNILAG)** maintaining a **Second Class Upper**.
 * 🤖 I am deeply focused on mastering **Artificial Intelligence and Machine Learning Engineering**, prioritizing robust backend modeling over frontend design.
 * 🛠️ I build and debug my production architectures using **Python** in **Visual Studio Code** on a **Mac environment**.
-* 💬 Ask me about: **Feature engineering**, **handling data leakage**, or why audio features alone can't predict a hit Afrobeats track.
 * 🏎️ Long-term goal: Evolve into an industry-leading ML Architect (and park a Porsche 911 GT3 RS in the driveway).
 
 ---
@@ -19,12 +18,11 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 ## 🧠 Languages & Tools
 
 ### 💻 Core Technologies
-[![My Skills](https://skillicons.dev/icons?i=py,r,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,r,html,css)](https://skillicons.dev)
 
 ### 🧪 Data Science & Machine Learning
 [![My Skills](https://skillicons.dev/icons?i=sklearn,pandas,numpy)](https://skillicons.dev)
-*Parallel Core Frameworks:* `XGBoost` | `IBM SPSS`
-
+*Parallel Core Frameworks:* ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ### 🚀 Productivity & Deployment
 [![My Skills](https://skillicons.dev/icons?i=streamlit,git,github,vscode,apple)](https://skillicons.dev)
 
