@@ -21,8 +21,7 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 [![My Skills](https://skillicons.dev/icons?i=py,java,r,html,css)](https://skillicons.dev)
 
 ### 🧪 Data Science & Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=sklearn,pandas,numpy)](https://skillicons.dev)
-*Parallel Core Frameworks:* ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,pandas,numpy)](https://skillicons.dev)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ### 🚀 Productivity & Deployment
 [![My Skills](https://skillicons.dev/icons?i=streamlit,git,github,vscode,apple)](https://skillicons.dev)
 
