@@ -19,13 +19,13 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 ## 🧠 Languages & Tools
 
 ### 💻 Core Technologies
-* `Python` `R` `SPSS` `HTML5` `CSS3`
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧪 Data Science & Machine Learning
-* `Scikit-Learn` `XGBoost` `Pandas` `NumPy` `Linear/Logistic Regression` `Random Forests`
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-F66012?style=for-the-badge)
 
 ### 🚀 Productivity & Deployment
-* `Streamlit` `Streamlit Community Cloud` `Git` `GitHub` `VS Code` `macOS (M1 Air)`
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
