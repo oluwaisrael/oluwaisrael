@@ -11,9 +11,6 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 * 🏫 I'm currently a second-year **Statistics student** at the **University of Lagos (UNILAG)** maintaining a **Second Class Upper**.
 * 🤖 I am deeply focused on mastering **Artificial Intelligence and Machine Learning Engineering**, prioritizing robust backend modeling over frontend design.
 * 🛠️ I build and debug my production architectures using **Python** in **Visual Studio Code** on a **Mac environment**.
-* 💬 Ask me about: **Feature engineering**, **handling data leakage**, or why audio features alone can't predict a hit Afrobeats track.
-* 🏎️ Long-term goal: Evolve into an industry-leading ML Architect (and park a Porsche 911 GT3 RS in the driveway).
-
 ---
 
 ## 🧠 Languages & Tools
