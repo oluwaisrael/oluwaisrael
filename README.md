@@ -18,7 +18,7 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 ## 🧠 Languages & Tools
 
 ### 💻 Core Technologies
-[![My Skills](https://skillicons.dev/icons?i=py,java,,rust,r,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,rust,r,html,css)](https://skillicons.dev)
 
 ### 🧪 Data Science & Machine Learning
 [![My Skills](https://skillicons.dev/icons?i=sklearn,pandas,numpy)](https://skillicons.dev)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
