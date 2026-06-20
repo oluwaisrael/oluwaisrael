@@ -28,10 +28,14 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 ---
 
 ## 📂 Featured Machine Learning Pipelines
+### 🤖 [UniRAG: Hybrid RAG Academic Assistant](https://github.com/oluwaisrael/rag-course-app)
+* **The Concept:** A retrieval-augmented chatbot that answers questions grounded strictly in uploaded university lecture slides and notes, with verifiable page-level citations.
+* **The Engineering:** Built a **dual-index hybrid retrieval system** — dense semantic search via `sentence-transformers` (FAISS) combined with sparse `BM25` keyword matching — then merged and reranked candidates with a **cross-encoder** (`ms-marco-MiniLM-L-6-v2`) before passing top results to **Gemini 2.5 Flash** for grounded generation. Course-scoped filtering and a live `st.file_uploader` let users drop in their own PDFs for on-the-fly indexing.
+* 🌐 **Live Demo:** [Launch App](https://unirag-trpvefapprewkjzrpsndcbw.streamlit.app/)
 
 ### 🎧 [Music Hit Predictor](https://github.com/oluwaisrael/Music-Hit-Predictor)
 * **The Concept:** An interactive web app evaluating if an Afrobeats track's popularity is dictated by acoustic data.
-* **The Engineering:** Caught a pipeline bug returning synthetic data, pivoted to a clean 1,000-row real-world dataset, applied strict `StandardScaler` transformations to eliminate leakage, and deployed the final serialized models using Streamlit.
+* **The Engineering:** Pivoted from the Spotify API after hitting post-2024 access restrictions, switched to a Kaggle dataset, and ran a rigorous 5-fold CV evaluation — honestly reporting a **null result** (57.3% LogReg vs. 55.2% baseline) rather than overstating the model's predictive power.
 * 🌐 **Live Demo:** [Launch App](https://music-hit-predictor-kxitaremaxmairznaqbxuy.streamlit.app/)
 
 ### 📉 [Customer Churn Prediction](https://github.com/oluwaisrael/customer-churn-prediction)
