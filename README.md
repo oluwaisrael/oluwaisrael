@@ -49,9 +49,8 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 ---
 
 ## 📈 2026 Roadmap & Status
-* 🎯 **Current Focus:** Deepening knowledge in deep feature extraction and multi-class target handling.
-* 📝 **Next Milestone:** Preparing for second-year university exams and jumping straight into my SIWES industrial attachment block!
-
+* 🎯 **Current Focus:** Pivoted into **AI Engineering** — working through the roadmap.sh AI Engineer path (LLM fundamentals, prompt & context engineering) and building hands-on with the Gemini API.
+* 📝 **Next Milestone:** Finishing second-year exams, then targeting job-readiness as an AI/ML Engineer within the next couple months.
 ---
 
 ## 🤝 Let's Connect!
