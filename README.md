@@ -11,7 +11,7 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 * 🏫 I'm currently a second-year **Statistics student** at the **University of Lagos (UNILAG)** maintaining a **Second Class Upper**.
 * 🤖 I am deeply focused on mastering **Artificial Intelligence and Machine Learning Engineering**, prioritizing robust backend modeling over frontend design.
 * 🛠️ I build and debug my production architectures using **Python** in **Visual Studio Code** on a **Mac environment**.
-* 🏎️ Long-term goal: Evolve into an industry-leading ML Architect (and park a Porsche 911 GT3 RS in the driveway).
+* 🏎️ Long-term goal: Evolve into an industry-leading ML Architect.
 
 ---
 
@@ -50,7 +50,7 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 
 ## 📈 2026 Roadmap & Status
 * 🎯 **Current Focus:** Pivoted into **AI Engineering** — working through the roadmap.sh AI Engineer path (LLM fundamentals, prompt & context engineering) and building hands-on with the Gemini API.
-* 📝 **Next Milestone:** Finishing second-year exams, then targeting job-readiness as an AI/ML Engineer within the next couple months.
+* 📝 **Next Milestone:** Finishing second-year exams, then targeting job-readiness as an AI/ML Engineer by Q4 2026.
 ---
 
 ## 🤝 Let's Connect!
