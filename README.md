@@ -5,13 +5,8 @@
 I build intelligent products from end to end—designing scalable backend systems, training machine learning models, and creating interactive frontends.
 
 My interests span **AI engineering, backend architecture, distributed systems, and data-driven products.**
+---
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oluwaisrael&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oluwaisrael&hide_border=true" />
-</p>
----
 
 ## 🚀 About Me
 
@@ -19,7 +14,7 @@ My interests span **AI engineering, backend architecture, distributed systems, a
 - 🤖 Building AI applications with LLMs, RAG, and classical machine learning
 - ⚡ Building production backend services with FastAPI, PostgreSQL & Redis
 - 🌌 Creating immersive React + Three.js experiences
-- 🎯 Working toward becoming an AI/ML Engineer building production-scale systems
+- 🎯 Working toward becoming a fullstack AI/ML Engineer building production-scale systems
 
 ---
 
