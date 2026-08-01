@@ -40,13 +40,19 @@ My interests span **AI engineering, backend architecture, distributed systems, a
 ![GLSL](https://img.shields.io/badge/GLSL%20Shaders-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 ### AI / Machine Learning
-
-[![Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
-
+[![Skills](https://skillicons.dev/icons?i=sklearn,pytorch)](https://skillicons.dev)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![BM25](https://img.shields.io/badge/BM25-6B21A8?style=for-the-badge&logo=python&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Tools
 
