@@ -1,4 +1,4 @@
-# Hi, I'm Derin 👋
+# Soo, I'm Derin 👋
 
 ### AI/ML Engineer • Fullstack Engineer • Statistics Undergraduate @ UNILAG
 
