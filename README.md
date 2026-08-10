@@ -22,7 +22,7 @@ My interests span **AI engineering, backend architecture, distributed systems, a
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=py,javascript,rust,r,java,html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,javascript,rust,r,html,css)](https://skillicons.dev)
 
 ### Backend
 
