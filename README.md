@@ -1,4 +1,5 @@
-# Hi, I'm Derin 👋
+# Hi, I'm Aderinola 👋
+
 
 ### AI/ML Engineer • Fullstack Engineer • Statistics Undergraduate @ UNILAG
 
