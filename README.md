@@ -6,16 +6,9 @@ I bridge the gap between rigorous mathematical statistics and end-to-end Machine
 
 ---
 
-
-## 🎯 SIWES Placement (June–August 2026)
-I'm actively seeking **AI Engineering** or **ML Engineering** placement roles focused on **RAG systems, LLM applications, production ML pipelines, and model optimization**. Open to remote or Lagos-based opportunities. 
-📧 **adeotiisrael93@gmail.com** | 📱 Available immediately.
-
----
-
 ## 👤 About Me
 
-* 🏫 I'm currently a second-year **Statistics student** at the **University of Lagos (UNILAG)** maintaining a **Second Class Upper**.
+* 🏫 I'm currently a third-year **Statistics student** at the **University of Lagos (UNILAG)** maintaining a **Second Class Upper**.
 * 🤖 I am deeply focused on mastering **Artificial Intelligence and Machine Learning Engineering**, prioritizing robust backend modeling over frontend design.
 * 🛠️ I build and debug my production architectures using **Python** in **Visual Studio Code** on a **Mac environment**.
 * 👷🏾 Long-term goal: Evolve into an industry-leading ML Architect 
@@ -53,11 +46,6 @@ I'm actively seeking **AI Engineering** or **ML Engineering** placement roles fo
 * **The Concept:** A parallel algorithm evaluation suite comparing classic statistical classification frameworks.
 * **The Engineering:** Cleaned messy demographic subsets, handled structured categorical encoding, and built robust baseline **Logistic Regression** and **Random Forest** models to hit a verified **81% accuracy** floor.
 
----
-
-## 📈 2026 Roadmap & Status
-* 🎯 **Current Focus:** Pivoted into **AI Engineering** — working through the roadmap.sh AI Engineer path (LLM fundamentals, prompt & context engineering) and building hands-on with the Gemini API.
-* 📝 **Next Milestone:** Finishing second-year exams, then targeting job-readiness as an AI/ML Engineer by Q4 2026.
 ---
 
 ## 🤝 Let's Connect!
