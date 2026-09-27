@@ -78,7 +78,7 @@ I care about understanding **how things work underneath the abstraction** — fr
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=py,ts,rust,r,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,ts,cs,rust,r,html,css)](https://skillicons.dev)
 
 ### Backend & Databases
 
