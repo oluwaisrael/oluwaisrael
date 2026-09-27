@@ -403,12 +403,6 @@ My Statistics background influences how I approach engineering — particularly 
 
 ---
 
-# 📈 GitHub
-
-![Derin's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwaisrael\&show_icons=true\&hide_border=true\&rank_icon=github)
-
----
-
 # 🤝 Let's Connect
 
 * 💼 **LinkedIn:** [linkedin.com/in/adeoti-israel-a10503262](https://linkedin.com/in/adeoti-israel-a10503262)
